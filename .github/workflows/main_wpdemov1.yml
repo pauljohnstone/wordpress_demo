@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'WPDemov1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39A5E374A26E4D0782EA7D995CDEC5EA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79AD7E2CE303403DAB6001B2364E61EF }}
           package: .
